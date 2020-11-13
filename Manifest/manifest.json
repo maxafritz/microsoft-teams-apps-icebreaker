@@ -18,8 +18,8 @@
     "short": "EMBA Icebreaker"
   },
   "description": {
-    "short": "EMBA Icebreaker is a bot that randomly pairs team members up to build team unity.",
-    "full": "EMBA Icebreaker is a bot that randomly pairs team members up every week to help the team build trust and personal connections."
+    "short": "EMBA Icebreaker is a bot that randomly pairs team members up to build unity.",
+    "full": "EMBA Icebreaker is a bot that randomly pairs team members up every week to help build personal connections."
   },
   "accentColor": "#4F2582",
   "bots": [
